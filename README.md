@@ -1,7 +1,6 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Adarsh Barnwal</h1>
 <h3 align="center">I am Also Learning Data Science Master on PWskills through ineuron.</h3>
-
+<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1674544362969-a4269ef0ea69?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshbarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="adarshbarnwal" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
