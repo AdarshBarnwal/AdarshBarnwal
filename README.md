@@ -1,3 +1,4 @@
+![logo](https://github.com/AdarshBarnwal/AdarshBarnwal/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Adarsh Barnwal</h1>
 <h3 align="center">I am Also Learning Data Science Master on PWskills through ineuron.</h3>
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1674544362969-a4269ef0ea69?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
