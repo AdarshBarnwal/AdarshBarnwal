@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdarshBarnwal/Adarsh-Projects](https://github.com/AdarshBarnwal/Adarsh-Projects)
 
-- 💬 Ask me about **Python,SQL,Statistics,Excel,Tableau,Power BI, AI & ML**
+- 💬 Ask me about **Data Science, MERN Stack**
 
 - 📫 How to reach me **adrashmk122@gmail.com**
 
